@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "work.html",
+    "href": "work.html",
     "title": "Carly Jeung",
     "section": "",
-    "text": "Here"
+    "text": "Work Experience\n\nActuarial Intern, Delta Dental Insurance\nJun 2023 - Sep 2023\n- Optimized annual analysis process by creating a tool that processed data automatically in Power BI\n- Analyzed data using SQL to identify trends and anomalies that may impact pricing and financial forecasting\n- Developed actuarial models to evaluate risk, pricing, and financial outcomes for various dental insurance products\n\n\nDevOps Intern, UCLA Student Media\nFeb 2023 - Jun 2023\n- Built internal websites with various purposes such as inventory and timesheet websites\n- Constructed website’s user interface with the front-end development team using React.js  - Managed and ensured functionality of WordPress websites (Linux servers, databases, DNS, site reliability)\n\n\nGraphics and Web Design Intern, UCLA USAC Office of the President\nApr 2023 - Jun 2023\n- Established design guidelines, standards, and best practices that aligned with the President’s branding\n- Created infographics and other visual aids for various social media platforms and events\n- Reached over 8,000 students on Instagram; increased student involvement in the President’s events"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carly Jeung",
+    "section": "",
+    "text": "Hello! Thanks for visiting! My name is Carly and I’m currently a 4th-year Statistics and Data Science major, Digital Humanities minor at the University of California, Los Angeles (UCLA). This quarter I’m taking four classes: Statistical Consulting, Machine Learning, Applied Sampling, and Digital Storytelling, while also searching for opportunities following my Spring 2024 graduation.\nThis website includes my resume, CV, and information about my work experience and projects I’ve worked on."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Carly Jeung",
+    "section": "",
+    "text": "Hello! Thanks for visiting! My name is Carly and I’m currently a 4th-year Statistics and Data Science major, Digital Humanities minor at the University of California, Los Angeles (UCLA). This quarter I’m taking four classes: Statistical Consulting, Machine Learning, Applied Sampling, and Digital Storytelling, while also searching for opportunities following my Spring 2024 graduation.\nThis website includes my resume, CV, and information about my work experience and projects I’ve worked on."
   },
   {
     "objectID": "about.html",
@@ -14,17 +28,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Carly Jeung",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#title-of-website",
-    "href": "index.html#title-of-website",
-    "title": "Carly Jeung",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’ve previously worked on a variety of projects from internships and classes! Here are some descriptions of my favorite ones:\n\nUse-and-Drop Members, at Delta Dental Insurance\n\nIdentified member behavior that abused Delta Dental’s individual insurance plans by using and dropping\n\nAnalyzed the costs associated with use-and-drop members using different metrics such as age and location\n\nPresented our findings to actuarial managers and discussed a strategy to reduce overuse by 50%\n\n\n\nArtist Diversity in US Museums, at UCLA\n\nInvestigated factors causing disparity in representation using data from 16 prominent US museums\n\nCleaned through 10,000 entries of artist data to fix issues from the collection process using regex in R\n\nUtilized Tableau to visualize relationships between artists and their defining characteristics\n\n\n\nTwitter Influence on Music, at UCLA\n\nAnalyzed unstructured text while utilizing word frequency, dispersion, and KWIC methods\n\nTransformed Twitter datasets using data wrangling techniques and tidyverse package in R (tidyr, dplyr)\n\nPerformed sentiment analysis to determine the overall mood of each tweet utilizing vader package in R"
   }
 ]

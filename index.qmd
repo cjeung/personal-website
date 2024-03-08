@@ -1,10 +1,23 @@
 ---
 toc: false
+about:
+  template: trestles
+  links: 
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/carly-jeung/
+      - icon: github
+        text: GitHub
+        url: https://github.com/cjeung
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:cjeung@ucla.edu"
+image: headshot.jpg
 ---
 
-## Title of website
+## About
+Hello! Thanks for visiting! My name is Carly and I'm currently a 4th-year Statistics and Data Science major, Digital Humanities minor at the University of California, Los Angeles (UCLA). This quarter I'm taking four classes: Statistical Consulting, Machine Learning, Applied Sampling, and Digital Storytelling, while also searching for opportunities following my Spring 2024 graduation.
 
-This is a Quarto website.
+This website includes my [resume](resume.pdf), information about my work experience, and projects I've worked on.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

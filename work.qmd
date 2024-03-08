@@ -1,0 +1,23 @@
+---
+toc: false
+---
+
+### Work Experience
+#### **Actuarial Intern, Delta Dental Insurance**
+*Jun 2023 - Sep 2023*\
+- Optimized annual analysis process by creating a  tool that processed data automatically in Power BI\
+- Analyzed data using SQL to identify trends and anomalies that may impact pricing and financial forecasting\
+- Developed actuarial models to evaluate risk, pricing, and financial outcomes for various dental insurance products
+
+#### **DevOps Intern, UCLA Student Media**
+*Feb 2023 - Jun 2023*\
+- Built internal websites with various purposes such as inventory and timesheet websites\
+- Constructed website’s user interface with the front-end development team using React.js\ 
+- Managed and ensured functionality of WordPress websites (Linux servers, databases, DNS, site reliability)
+
+#### **Graphics and Web Design Intern, UCLA USAC Office of the President**
+*Apr 2023 - Jun 2023*\
+- Established design guidelines, standards, and best practices that aligned with the President’s branding\
+- Created infographics and other visual aids for various social media platforms and events\
+- Reached over 8,000 students on Instagram; increased student involvement in the President’s events
+
