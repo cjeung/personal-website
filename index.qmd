@@ -16,7 +16,7 @@ image: headshot.jpg
 ---
 
 ## About
-Hello! Thanks for visiting! My name is Carly and I'm currently a 4th-year Statistics and Data Science major, Digital Humanities minor at the University of California, Los Angeles (UCLA). This quarter I'm taking four classes: Statistical Consulting, Machine Learning, Applied Sampling, and Digital Storytelling, while also searching for opportunities following my Spring 2024 graduation.
+Hello! Thanks for visiting! My name is Carly and I am currently a 4th-year Statistics and Data Science major, Digital Humanities minor at the University of California, Los Angeles (UCLA). This quarter I am taking four classes: Statistical Consulting, Machine Learning, Applied Sampling, and Digital Storytelling, while also searching for opportunities following my Spring 2024 graduation.
 
 This website includes my [resume](resume.pdf), information about my work experience, and projects I've worked on.
 
